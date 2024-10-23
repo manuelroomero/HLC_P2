@@ -1,1 +1,2 @@
 Voy a provocar un conflicto en Git
+Ahora edito desde la terminal
