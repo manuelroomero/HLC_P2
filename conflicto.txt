@@ -1,0 +1,6 @@
+Voy a provocar un conflicto en Git
+<<<<<<< HEAD
+Ahora edito desde la terminal
+=======
+Edito desde el Git para provocar el error
+>>>>>>> bcc423fa481d8e07d1b7ca1a427e4c52bc3a6e8c
