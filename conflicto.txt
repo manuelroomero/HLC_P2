@@ -1,1 +1,2 @@
 Voy a provocar un conflicto en Git
+Edito desde el Git para provocar el error
